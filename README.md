@@ -64,12 +64,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://media0.giphy.com/media/W4CJ8xy0noyja0fgdo/giphy.gif?cid=6c09b952sp0clbbtk1uv8pai6z3yegodc69joujhdf2n0g6b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/lieths/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
