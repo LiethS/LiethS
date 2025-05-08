@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- Working on Meteor Strike Esports website!<br>- Developing my Space Simulator!<br>- Remaking my portfolio using my more polished skills!<br>- As always continuing to grow!</p>
+<p align="left">- Working on Meteor Strike Esports' website!<br>- Developing my Space Simulator!<br>- Remaking my portfolio!<br>- As always, continuing to grow my skills!</p>
 
 ###
 
