@@ -52,7 +52,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=LiethS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
 </div>
 
@@ -67,6 +67,7 @@
 <br clear="both">
 
 <img align="left" height="150" src="https://media0.giphy.com/media/W4CJ8xy0noyja0fgdo/giphy.gif?cid=6c09b952sp0clbbtk1uv8pai6z3yegodc69joujhdf2n0g6b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+
 ###
 
 <div align="left">
