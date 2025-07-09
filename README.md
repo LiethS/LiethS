@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- Working on Meteor Strike Esports' website!<br>- Developing my Space Simulator!<br>- Remaking my portfolio!<br>- Working on MNS Logistics Inc. business website<br>- Preparing for graduation<br>- As always, continuing to grow my skills!</p>
+<p align="left">- Working on Meteor Strike Esports' website!<br>- Developing my Space Simulator!<br>- Remaking my portfolio!<br>- Working on MNS Logistics Inc. business website<br>- As always, continuing to grow my skills!</p>
 
 ###
 
